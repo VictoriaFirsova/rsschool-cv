@@ -1,1 +1,1 @@
-https://your-github-account.github.io/rsschool-cv/cv
+https://github.com/VictoriaFirsova/rsschool-cv/tree/rsschool-cv-html
